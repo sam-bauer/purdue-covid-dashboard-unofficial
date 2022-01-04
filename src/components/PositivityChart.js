@@ -64,7 +64,12 @@ export default function PositivityChart(props) {
           tickFormatter={formatDate}
           stroke="#EEEEEE"
         />
-        <YAxis tickFormatter={formatPercent} width={50} stroke="#EEEEEE" />
+        <YAxis
+          tickFormatter={formatPercent}
+          width={50}
+          domain={[0, (dataMax) => Math.round(Math.min(dataMax * 1.2, 100))]}
+          stroke="#EEEEEE"
+        />
         <Tooltip content={CustomToolTip} filterNull={false} />
         <Legend />
         <Bar name="Daily Positivity" dataKey="positivity" fill="#337AB7" />
