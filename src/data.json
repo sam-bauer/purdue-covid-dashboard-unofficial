@@ -1,0 +1,1262 @@
+[
+  {
+    "date": "2021-08-01",
+    "tests_positive": 0.0,
+    "tests": 0.0,
+    "tests_negative": 0.0,
+    "positivity": null,
+    "positivity_rolling_7": null,
+    "positivity_rolling_14": null
+  },
+  {
+    "date": "2021-08-02",
+    "tests_positive": 5.0,
+    "tests": 134.0,
+    "tests_negative": 129.0,
+    "positivity": 3.73,
+    "positivity_rolling_7": 3.73,
+    "positivity_rolling_14": 3.73
+  },
+  {
+    "date": "2021-08-03",
+    "tests_positive": 4.0,
+    "tests": 92.0,
+    "tests_negative": 88.0,
+    "positivity": 4.35,
+    "positivity_rolling_7": 4.04,
+    "positivity_rolling_14": 4.04
+  },
+  {
+    "date": "2021-08-04",
+    "tests_positive": 1.0,
+    "tests": 127.0,
+    "tests_negative": 126.0,
+    "positivity": 0.79,
+    "positivity_rolling_7": 2.96,
+    "positivity_rolling_14": 2.96
+  },
+  {
+    "date": "2021-08-05",
+    "tests_positive": 0.0,
+    "tests": 129.0,
+    "tests_negative": 129.0,
+    "positivity": 0.0,
+    "positivity_rolling_7": 2.22,
+    "positivity_rolling_14": 2.22
+  },
+  {
+    "date": "2021-08-06",
+    "tests_positive": 4.0,
+    "tests": 130.0,
+    "tests_negative": 126.0,
+    "positivity": 3.08,
+    "positivity_rolling_7": 2.39,
+    "positivity_rolling_14": 2.39
+  },
+  {
+    "date": "2021-08-07",
+    "tests_positive": 0.0,
+    "tests": 0.0,
+    "tests_negative": 0.0,
+    "positivity": null,
+    "positivity_rolling_7": 2.39,
+    "positivity_rolling_14": 2.39
+  },
+  {
+    "date": "2021-08-08",
+    "tests_positive": 0.0,
+    "tests": 0.0,
+    "tests_negative": 0.0,
+    "positivity": null,
+    "positivity_rolling_7": 2.39,
+    "positivity_rolling_14": 2.39
+  },
+  {
+    "date": "2021-08-09",
+    "tests_positive": 4.0,
+    "tests": 208.0,
+    "tests_negative": 204.0,
+    "positivity": 1.92,
+    "positivity_rolling_7": 2.03,
+    "positivity_rolling_14": 2.31
+  },
+  {
+    "date": "2021-08-10",
+    "tests_positive": 3.0,
+    "tests": 189.0,
+    "tests_negative": 186.0,
+    "positivity": 1.59,
+    "positivity_rolling_7": 1.48,
+    "positivity_rolling_14": 2.21
+  },
+  {
+    "date": "2021-08-11",
+    "tests_positive": 5.0,
+    "tests": 254.0,
+    "tests_negative": 249.0,
+    "positivity": 1.97,
+    "positivity_rolling_7": 1.71,
+    "positivity_rolling_14": 2.18
+  },
+  {
+    "date": "2021-08-12",
+    "tests_positive": 2.0,
+    "tests": 184.0,
+    "tests_negative": 182.0,
+    "positivity": 1.09,
+    "positivity_rolling_7": 1.93,
+    "positivity_rolling_14": 2.06
+  },
+  {
+    "date": "2021-08-13",
+    "tests_positive": 2.0,
+    "tests": 217.0,
+    "tests_negative": 215.0,
+    "positivity": 0.92,
+    "positivity_rolling_7": 1.5,
+    "positivity_rolling_14": 1.94
+  },
+  {
+    "date": "2021-08-14",
+    "tests_positive": 0.0,
+    "tests": 68.0,
+    "tests_negative": 68.0,
+    "positivity": 0.0,
+    "positivity_rolling_7": 1.25,
+    "positivity_rolling_14": 1.77
+  },
+  {
+    "date": "2021-08-15",
+    "tests_positive": 1.0,
+    "tests": 65.0,
+    "tests_negative": 64.0,
+    "positivity": 1.54,
+    "positivity_rolling_7": 1.29,
+    "positivity_rolling_14": 1.75
+  },
+  {
+    "date": "2021-08-16",
+    "tests_positive": 3.0,
+    "tests": 422.0,
+    "tests_negative": 419.0,
+    "positivity": 0.71,
+    "positivity_rolling_7": 1.12,
+    "positivity_rolling_14": 1.5
+  },
+  {
+    "date": "2021-08-17",
+    "tests_positive": 7.0,
+    "tests": 334.0,
+    "tests_negative": 327.0,
+    "positivity": 2.1,
+    "positivity_rolling_7": 1.19,
+    "positivity_rolling_14": 1.31
+  },
+  {
+    "date": "2021-08-18",
+    "tests_positive": 7.0,
+    "tests": 320.0,
+    "tests_negative": 313.0,
+    "positivity": 2.19,
+    "positivity_rolling_7": 1.22,
+    "positivity_rolling_14": 1.43
+  },
+  {
+    "date": "2021-08-19",
+    "tests_positive": 10.0,
+    "tests": 307.0,
+    "tests_negative": 297.0,
+    "positivity": 3.26,
+    "positivity_rolling_7": 1.53,
+    "positivity_rolling_14": 1.7
+  },
+  {
+    "date": "2021-08-20",
+    "tests_positive": 8.0,
+    "tests": 365.0,
+    "tests_negative": 357.0,
+    "positivity": 2.19,
+    "positivity_rolling_7": 1.71,
+    "positivity_rolling_14": 1.62
+  },
+  {
+    "date": "2021-08-21",
+    "tests_positive": 1.0,
+    "tests": 130.0,
+    "tests_negative": 129.0,
+    "positivity": 0.77,
+    "positivity_rolling_7": 1.82,
+    "positivity_rolling_14": 1.56
+  },
+  {
+    "date": "2021-08-22",
+    "tests_positive": 1.0,
+    "tests": 65.0,
+    "tests_negative": 64.0,
+    "positivity": 1.54,
+    "positivity_rolling_7": 1.82,
+    "positivity_rolling_14": 1.56
+  },
+  {
+    "date": "2021-08-23",
+    "tests_positive": 21.0,
+    "tests": 1236.0,
+    "tests_negative": 1215.0,
+    "positivity": 1.7,
+    "positivity_rolling_7": 1.96,
+    "positivity_rolling_14": 1.54
+  },
+  {
+    "date": "2021-08-24",
+    "tests_positive": 12.0,
+    "tests": 1171.0,
+    "tests_negative": 1159.0,
+    "positivity": 1.02,
+    "positivity_rolling_7": 1.81,
+    "positivity_rolling_14": 1.5
+  },
+  {
+    "date": "2021-08-25",
+    "tests_positive": 26.0,
+    "tests": 1112.0,
+    "tests_negative": 1086.0,
+    "positivity": 2.34,
+    "positivity_rolling_7": 1.83,
+    "positivity_rolling_14": 1.53
+  },
+  {
+    "date": "2021-08-26",
+    "tests_positive": 21.0,
+    "tests": 1198.0,
+    "tests_negative": 1177.0,
+    "positivity": 1.75,
+    "positivity_rolling_7": 1.62,
+    "positivity_rolling_14": 1.57
+  },
+  {
+    "date": "2021-08-27",
+    "tests_positive": 22.0,
+    "tests": 1266.0,
+    "tests_negative": 1244.0,
+    "positivity": 1.74,
+    "positivity_rolling_7": 1.55,
+    "positivity_rolling_14": 1.63
+  },
+  {
+    "date": "2021-08-28",
+    "tests_positive": 5.0,
+    "tests": 191.0,
+    "tests_negative": 186.0,
+    "positivity": 2.62,
+    "positivity_rolling_7": 1.82,
+    "positivity_rolling_14": 1.82
+  },
+  {
+    "date": "2021-08-29",
+    "tests_positive": 3.0,
+    "tests": 302.0,
+    "tests_negative": 299.0,
+    "positivity": 0.99,
+    "positivity_rolling_7": 1.74,
+    "positivity_rolling_14": 1.78
+  },
+  {
+    "date": "2021-08-30",
+    "tests_positive": 13.0,
+    "tests": 1054.0,
+    "tests_negative": 1041.0,
+    "positivity": 1.23,
+    "positivity_rolling_7": 1.67,
+    "positivity_rolling_14": 1.82
+  },
+  {
+    "date": "2021-08-31",
+    "tests_positive": 11.0,
+    "tests": 1100.0,
+    "tests_negative": 1089.0,
+    "positivity": 1.0,
+    "positivity_rolling_7": 1.67,
+    "positivity_rolling_14": 1.74
+  },
+  {
+    "date": "2021-09-01",
+    "tests_positive": 14.0,
+    "tests": 960.0,
+    "tests_negative": 946.0,
+    "positivity": 1.46,
+    "positivity_rolling_7": 1.54,
+    "positivity_rolling_14": 1.69
+  },
+  {
+    "date": "2021-09-02",
+    "tests_positive": 12.0,
+    "tests": 930.0,
+    "tests_negative": 918.0,
+    "positivity": 1.29,
+    "positivity_rolling_7": 1.48,
+    "positivity_rolling_14": 1.55
+  },
+  {
+    "date": "2021-09-03",
+    "tests_positive": 9.0,
+    "tests": 926.0,
+    "tests_negative": 917.0,
+    "positivity": 0.97,
+    "positivity_rolling_7": 1.37,
+    "positivity_rolling_14": 1.46
+  },
+  {
+    "date": "2021-09-04",
+    "tests_positive": 2.0,
+    "tests": 220.0,
+    "tests_negative": 218.0,
+    "positivity": 0.91,
+    "positivity_rolling_7": 1.12,
+    "positivity_rolling_14": 1.47
+  },
+  {
+    "date": "2021-09-05",
+    "tests_positive": 0.0,
+    "tests": 287.0,
+    "tests_negative": 287.0,
+    "positivity": 0.0,
+    "positivity_rolling_7": 0.98,
+    "positivity_rolling_14": 1.36
+  },
+  {
+    "date": "2021-09-06",
+    "tests_positive": 7.0,
+    "tests": 491.0,
+    "tests_negative": 484.0,
+    "positivity": 1.43,
+    "positivity_rolling_7": 1.01,
+    "positivity_rolling_14": 1.34
+  },
+  {
+    "date": "2021-09-07",
+    "tests_positive": 13.0,
+    "tests": 1110.0,
+    "tests_negative": 1097.0,
+    "positivity": 1.17,
+    "positivity_rolling_7": 1.03,
+    "positivity_rolling_14": 1.35
+  },
+  {
+    "date": "2021-09-08",
+    "tests_positive": 26.0,
+    "tests": 1390.0,
+    "tests_negative": 1364.0,
+    "positivity": 1.87,
+    "positivity_rolling_7": 1.09,
+    "positivity_rolling_14": 1.32
+  },
+  {
+    "date": "2021-09-09",
+    "tests_positive": 26.0,
+    "tests": 1501.0,
+    "tests_negative": 1475.0,
+    "positivity": 1.73,
+    "positivity_rolling_7": 1.15,
+    "positivity_rolling_14": 1.32
+  },
+  {
+    "date": "2021-09-10",
+    "tests_positive": 11.0,
+    "tests": 1563.0,
+    "tests_negative": 1552.0,
+    "positivity": 0.7,
+    "positivity_rolling_7": 1.12,
+    "positivity_rolling_14": 1.24
+  },
+  {
+    "date": "2021-09-11",
+    "tests_positive": 4.0,
+    "tests": 388.0,
+    "tests_negative": 384.0,
+    "positivity": 1.03,
+    "positivity_rolling_7": 1.13,
+    "positivity_rolling_14": 1.13
+  },
+  {
+    "date": "2021-09-12",
+    "tests_positive": 5.0,
+    "tests": 433.0,
+    "tests_negative": 428.0,
+    "positivity": 1.15,
+    "positivity_rolling_7": 1.3,
+    "positivity_rolling_14": 1.14
+  },
+  {
+    "date": "2021-09-13",
+    "tests_positive": 8.0,
+    "tests": 882.0,
+    "tests_negative": 874.0,
+    "positivity": 0.91,
+    "positivity_rolling_7": 1.22,
+    "positivity_rolling_14": 1.12
+  },
+  {
+    "date": "2021-09-14",
+    "tests_positive": 8.0,
+    "tests": 949.0,
+    "tests_negative": 941.0,
+    "positivity": 0.84,
+    "positivity_rolling_7": 1.18,
+    "positivity_rolling_14": 1.1
+  },
+  {
+    "date": "2021-09-15",
+    "tests_positive": 7.0,
+    "tests": 1018.0,
+    "tests_negative": 1011.0,
+    "positivity": 0.69,
+    "positivity_rolling_7": 1.01,
+    "positivity_rolling_14": 1.05
+  },
+  {
+    "date": "2021-09-16",
+    "tests_positive": 10.0,
+    "tests": 1044.0,
+    "tests_negative": 1034.0,
+    "positivity": 0.96,
+    "positivity_rolling_7": 0.9,
+    "positivity_rolling_14": 1.03
+  },
+  {
+    "date": "2021-09-17",
+    "tests_positive": 10.0,
+    "tests": 1088.0,
+    "tests_negative": 1078.0,
+    "positivity": 0.92,
+    "positivity_rolling_7": 0.93,
+    "positivity_rolling_14": 1.02
+  },
+  {
+    "date": "2021-09-18",
+    "tests_positive": 1.0,
+    "tests": 221.0,
+    "tests_negative": 220.0,
+    "positivity": 0.45,
+    "positivity_rolling_7": 0.85,
+    "positivity_rolling_14": 0.99
+  },
+  {
+    "date": "2021-09-19",
+    "tests_positive": 2.0,
+    "tests": 266.0,
+    "tests_negative": 264.0,
+    "positivity": 0.75,
+    "positivity_rolling_7": 0.79,
+    "positivity_rolling_14": 1.04
+  },
+  {
+    "date": "2021-09-20",
+    "tests_positive": 3.0,
+    "tests": 535.0,
+    "tests_negative": 532.0,
+    "positivity": 0.56,
+    "positivity_rolling_7": 0.74,
+    "positivity_rolling_14": 0.98
+  },
+  {
+    "date": "2021-09-21",
+    "tests_positive": 4.0,
+    "tests": 601.0,
+    "tests_negative": 597.0,
+    "positivity": 0.67,
+    "positivity_rolling_7": 0.71,
+    "positivity_rolling_14": 0.94
+  },
+  {
+    "date": "2021-09-22",
+    "tests_positive": 4.0,
+    "tests": 587.0,
+    "tests_negative": 583.0,
+    "positivity": 0.68,
+    "positivity_rolling_7": 0.71,
+    "positivity_rolling_14": 0.86
+  },
+  {
+    "date": "2021-09-23",
+    "tests_positive": 5.0,
+    "tests": 666.0,
+    "tests_negative": 661.0,
+    "positivity": 0.75,
+    "positivity_rolling_7": 0.68,
+    "positivity_rolling_14": 0.79
+  },
+  {
+    "date": "2021-09-24",
+    "tests_positive": 7.0,
+    "tests": 748.0,
+    "tests_negative": 741.0,
+    "positivity": 0.94,
+    "positivity_rolling_7": 0.69,
+    "positivity_rolling_14": 0.81
+  },
+  {
+    "date": "2021-09-25",
+    "tests_positive": 0.0,
+    "tests": 140.0,
+    "tests_negative": 140.0,
+    "positivity": 0.0,
+    "positivity_rolling_7": 0.62,
+    "positivity_rolling_14": 0.73
+  },
+  {
+    "date": "2021-09-26",
+    "tests_positive": 0.0,
+    "tests": 178.0,
+    "tests_negative": 178.0,
+    "positivity": 0.0,
+    "positivity_rolling_7": 0.51,
+    "positivity_rolling_14": 0.65
+  },
+  {
+    "date": "2021-09-27",
+    "tests_positive": 6.0,
+    "tests": 470.0,
+    "tests_negative": 464.0,
+    "positivity": 1.28,
+    "positivity_rolling_7": 0.62,
+    "positivity_rolling_14": 0.68
+  },
+  {
+    "date": "2021-09-28",
+    "tests_positive": 5.0,
+    "tests": 575.0,
+    "tests_negative": 570.0,
+    "positivity": 0.87,
+    "positivity_rolling_7": 0.65,
+    "positivity_rolling_14": 0.68
+  },
+  {
+    "date": "2021-09-29",
+    "tests_positive": 2.0,
+    "tests": 615.0,
+    "tests_negative": 613.0,
+    "positivity": 0.33,
+    "positivity_rolling_7": 0.6,
+    "positivity_rolling_14": 0.65
+  },
+  {
+    "date": "2021-09-30",
+    "tests_positive": 3.0,
+    "tests": 632.0,
+    "tests_negative": 629.0,
+    "positivity": 0.47,
+    "positivity_rolling_7": 0.56,
+    "positivity_rolling_14": 0.62
+  },
+  {
+    "date": "2021-10-01",
+    "tests_positive": 2.0,
+    "tests": 632.0,
+    "tests_negative": 630.0,
+    "positivity": 0.32,
+    "positivity_rolling_7": 0.47,
+    "positivity_rolling_14": 0.58
+  },
+  {
+    "date": "2021-10-02",
+    "tests_positive": 0.0,
+    "tests": 91.0,
+    "tests_negative": 91.0,
+    "positivity": 0.0,
+    "positivity_rolling_7": 0.47,
+    "positivity_rolling_14": 0.54
+  },
+  {
+    "date": "2021-10-03",
+    "tests_positive": 2.0,
+    "tests": 216.0,
+    "tests_negative": 214.0,
+    "positivity": 0.93,
+    "positivity_rolling_7": 0.6,
+    "positivity_rolling_14": 0.56
+  },
+  {
+    "date": "2021-10-04",
+    "tests_positive": 8.0,
+    "tests": 479.0,
+    "tests_negative": 471.0,
+    "positivity": 1.67,
+    "positivity_rolling_7": 0.66,
+    "positivity_rolling_14": 0.64
+  },
+  {
+    "date": "2021-10-05",
+    "tests_positive": 2.0,
+    "tests": 556.0,
+    "tests_negative": 554.0,
+    "positivity": 0.36,
+    "positivity_rolling_7": 0.58,
+    "positivity_rolling_14": 0.61
+  },
+  {
+    "date": "2021-10-06",
+    "tests_positive": 3.0,
+    "tests": 732.0,
+    "tests_negative": 729.0,
+    "positivity": 0.41,
+    "positivity_rolling_7": 0.59,
+    "positivity_rolling_14": 0.6
+  },
+  {
+    "date": "2021-10-07",
+    "tests_positive": 4.0,
+    "tests": 691.0,
+    "tests_negative": 687.0,
+    "positivity": 0.58,
+    "positivity_rolling_7": 0.61,
+    "positivity_rolling_14": 0.58
+  },
+  {
+    "date": "2021-10-08",
+    "tests_positive": 8.0,
+    "tests": 662.0,
+    "tests_negative": 654.0,
+    "positivity": 1.21,
+    "positivity_rolling_7": 0.74,
+    "positivity_rolling_14": 0.6
+  },
+  {
+    "date": "2021-10-09",
+    "tests_positive": 1.0,
+    "tests": 101.0,
+    "tests_negative": 100.0,
+    "positivity": 0.99,
+    "positivity_rolling_7": 0.88,
+    "positivity_rolling_14": 0.67
+  },
+  {
+    "date": "2021-10-10",
+    "tests_positive": 3.0,
+    "tests": 115.0,
+    "tests_negative": 112.0,
+    "positivity": 2.61,
+    "positivity_rolling_7": 1.12,
+    "positivity_rolling_14": 0.86
+  },
+  {
+    "date": "2021-10-11",
+    "tests_positive": 3.0,
+    "tests": 304.0,
+    "tests_negative": 301.0,
+    "positivity": 0.99,
+    "positivity_rolling_7": 1.02,
+    "positivity_rolling_14": 0.84
+  },
+  {
+    "date": "2021-10-12",
+    "tests_positive": 2.0,
+    "tests": 312.0,
+    "tests_negative": 310.0,
+    "positivity": 0.64,
+    "positivity_rolling_7": 1.06,
+    "positivity_rolling_14": 0.82
+  },
+  {
+    "date": "2021-10-13",
+    "tests_positive": 13.0,
+    "tests": 815.0,
+    "tests_negative": 802.0,
+    "positivity": 1.6,
+    "positivity_rolling_7": 1.23,
+    "positivity_rolling_14": 0.91
+  },
+  {
+    "date": "2021-10-14",
+    "tests_positive": 11.0,
+    "tests": 1334.0,
+    "tests_negative": 1323.0,
+    "positivity": 0.82,
+    "positivity_rolling_7": 1.27,
+    "positivity_rolling_14": 0.94
+  },
+  {
+    "date": "2021-10-15",
+    "tests_positive": 8.0,
+    "tests": 1459.0,
+    "tests_negative": 1451.0,
+    "positivity": 0.55,
+    "positivity_rolling_7": 1.17,
+    "positivity_rolling_14": 0.95
+  },
+  {
+    "date": "2021-10-16",
+    "tests_positive": 2.0,
+    "tests": 377.0,
+    "tests_negative": 375.0,
+    "positivity": 0.53,
+    "positivity_rolling_7": 1.11,
+    "positivity_rolling_14": 0.99
+  },
+  {
+    "date": "2021-10-17",
+    "tests_positive": 5.0,
+    "tests": 444.0,
+    "tests_negative": 439.0,
+    "positivity": 1.13,
+    "positivity_rolling_7": 0.89,
+    "positivity_rolling_14": 1.01
+  },
+  {
+    "date": "2021-10-18",
+    "tests_positive": 10.0,
+    "tests": 728.0,
+    "tests_negative": 718.0,
+    "positivity": 1.37,
+    "positivity_rolling_7": 0.95,
+    "positivity_rolling_14": 0.98
+  },
+  {
+    "date": "2021-10-19",
+    "tests_positive": 6.0,
+    "tests": 886.0,
+    "tests_negative": 880.0,
+    "positivity": 0.68,
+    "positivity_rolling_7": 0.95,
+    "positivity_rolling_14": 1.01
+  },
+  {
+    "date": "2021-10-20",
+    "tests_positive": 8.0,
+    "tests": 1019.0,
+    "tests_negative": 1011.0,
+    "positivity": 0.79,
+    "positivity_rolling_7": 0.84,
+    "positivity_rolling_14": 1.03
+  },
+  {
+    "date": "2021-10-21",
+    "tests_positive": 20.0,
+    "tests": 1240.0,
+    "tests_negative": 1220.0,
+    "positivity": 1.61,
+    "positivity_rolling_7": 0.95,
+    "positivity_rolling_14": 1.11
+  },
+  {
+    "date": "2021-10-22",
+    "tests_positive": 8.0,
+    "tests": 1386.0,
+    "tests_negative": 1378.0,
+    "positivity": 0.58,
+    "positivity_rolling_7": 0.96,
+    "positivity_rolling_14": 1.06
+  },
+  {
+    "date": "2021-10-23",
+    "tests_positive": 0.0,
+    "tests": 231.0,
+    "tests_negative": 231.0,
+    "positivity": 0.0,
+    "positivity_rolling_7": 0.88,
+    "positivity_rolling_14": 0.99
+  },
+  {
+    "date": "2021-10-24",
+    "tests_positive": 3.0,
+    "tests": 389.0,
+    "tests_negative": 386.0,
+    "positivity": 0.77,
+    "positivity_rolling_7": 0.83,
+    "positivity_rolling_14": 0.86
+  },
+  {
+    "date": "2021-10-25",
+    "tests_positive": 9.0,
+    "tests": 710.0,
+    "tests_negative": 701.0,
+    "positivity": 1.27,
+    "positivity_rolling_7": 0.81,
+    "positivity_rolling_14": 0.88
+  },
+  {
+    "date": "2021-10-26",
+    "tests_positive": 4.0,
+    "tests": 937.0,
+    "tests_negative": 933.0,
+    "positivity": 0.43,
+    "positivity_rolling_7": 0.78,
+    "positivity_rolling_14": 0.87
+  },
+  {
+    "date": "2021-10-27",
+    "tests_positive": 8.0,
+    "tests": 962.0,
+    "tests_negative": 954.0,
+    "positivity": 0.83,
+    "positivity_rolling_7": 0.78,
+    "positivity_rolling_14": 0.81
+  },
+  {
+    "date": "2021-10-28",
+    "tests_positive": 10.0,
+    "tests": 1061.0,
+    "tests_negative": 1051.0,
+    "positivity": 0.94,
+    "positivity_rolling_7": 0.69,
+    "positivity_rolling_14": 0.82
+  },
+  {
+    "date": "2021-10-29",
+    "tests_positive": 9.0,
+    "tests": 1318.0,
+    "tests_negative": 1309.0,
+    "positivity": 0.68,
+    "positivity_rolling_7": 0.7,
+    "positivity_rolling_14": 0.83
+  },
+  {
+    "date": "2021-10-30",
+    "tests_positive": 3.0,
+    "tests": 289.0,
+    "tests_negative": 286.0,
+    "positivity": 1.04,
+    "positivity_rolling_7": 0.85,
+    "positivity_rolling_14": 0.87
+  },
+  {
+    "date": "2021-10-31",
+    "tests_positive": 3.0,
+    "tests": 363.0,
+    "tests_negative": 360.0,
+    "positivity": 0.83,
+    "positivity_rolling_7": 0.86,
+    "positivity_rolling_14": 0.84
+  },
+  {
+    "date": "2021-11-01",
+    "tests_positive": 10.0,
+    "tests": 676.0,
+    "tests_negative": 666.0,
+    "positivity": 1.48,
+    "positivity_rolling_7": 0.89,
+    "positivity_rolling_14": 0.85
+  },
+  {
+    "date": "2021-11-02",
+    "tests_positive": 7.0,
+    "tests": 860.0,
+    "tests_negative": 853.0,
+    "positivity": 0.81,
+    "positivity_rolling_7": 0.94,
+    "positivity_rolling_14": 0.86
+  },
+  {
+    "date": "2021-11-03",
+    "tests_positive": 8.0,
+    "tests": 1039.0,
+    "tests_negative": 1031.0,
+    "positivity": 0.77,
+    "positivity_rolling_7": 0.94,
+    "positivity_rolling_14": 0.86
+  },
+  {
+    "date": "2021-11-04",
+    "tests_positive": 10.0,
+    "tests": 1102.0,
+    "tests_negative": 1092.0,
+    "positivity": 0.91,
+    "positivity_rolling_7": 0.93,
+    "positivity_rolling_14": 0.81
+  },
+  {
+    "date": "2021-11-05",
+    "tests_positive": 16.0,
+    "tests": 1402.0,
+    "tests_negative": 1386.0,
+    "positivity": 1.14,
+    "positivity_rolling_7": 1.0,
+    "positivity_rolling_14": 0.85
+  },
+  {
+    "date": "2021-11-06",
+    "tests_positive": 9.0,
+    "tests": 316.0,
+    "tests_negative": 307.0,
+    "positivity": 2.85,
+    "positivity_rolling_7": 1.26,
+    "positivity_rolling_14": 1.05
+  },
+  {
+    "date": "2021-11-07",
+    "tests_positive": 4.0,
+    "tests": 474.0,
+    "tests_negative": 470.0,
+    "positivity": 0.84,
+    "positivity_rolling_7": 1.26,
+    "positivity_rolling_14": 1.06
+  },
+  {
+    "date": "2021-11-08",
+    "tests_positive": 9.0,
+    "tests": 598.0,
+    "tests_negative": 589.0,
+    "positivity": 1.51,
+    "positivity_rolling_7": 1.26,
+    "positivity_rolling_14": 1.08
+  },
+  {
+    "date": "2021-11-09",
+    "tests_positive": 9.0,
+    "tests": 776.0,
+    "tests_negative": 767.0,
+    "positivity": 1.16,
+    "positivity_rolling_7": 1.31,
+    "positivity_rolling_14": 1.13
+  },
+  {
+    "date": "2021-11-10",
+    "tests_positive": 5.0,
+    "tests": 1052.0,
+    "tests_negative": 1047.0,
+    "positivity": 0.48,
+    "positivity_rolling_7": 1.27,
+    "positivity_rolling_14": 1.1
+  },
+  {
+    "date": "2021-11-11",
+    "tests_positive": 22.0,
+    "tests": 1208.0,
+    "tests_negative": 1186.0,
+    "positivity": 1.82,
+    "positivity_rolling_7": 1.4,
+    "positivity_rolling_14": 1.17
+  },
+  {
+    "date": "2021-11-12",
+    "tests_positive": 16.0,
+    "tests": 1259.0,
+    "tests_negative": 1243.0,
+    "positivity": 1.27,
+    "positivity_rolling_7": 1.42,
+    "positivity_rolling_14": 1.21
+  },
+  {
+    "date": "2021-11-13",
+    "tests_positive": 0.0,
+    "tests": 398.0,
+    "tests_negative": 398.0,
+    "positivity": 0.0,
+    "positivity_rolling_7": 1.01,
+    "positivity_rolling_14": 1.13
+  },
+  {
+    "date": "2021-11-14",
+    "tests_positive": 4.0,
+    "tests": 470.0,
+    "tests_negative": 466.0,
+    "positivity": 0.85,
+    "positivity_rolling_7": 1.01,
+    "positivity_rolling_14": 1.14
+  },
+  {
+    "date": "2021-11-15",
+    "tests_positive": 10.0,
+    "tests": 693.0,
+    "tests_negative": 683.0,
+    "positivity": 1.44,
+    "positivity_rolling_7": 1.0,
+    "positivity_rolling_14": 1.13
+  },
+  {
+    "date": "2021-11-16",
+    "tests_positive": 9.0,
+    "tests": 744.0,
+    "tests_negative": 735.0,
+    "positivity": 1.21,
+    "positivity_rolling_7": 1.01,
+    "positivity_rolling_14": 1.16
+  },
+  {
+    "date": "2021-11-17",
+    "tests_positive": 12.0,
+    "tests": 1077.0,
+    "tests_negative": 1065.0,
+    "positivity": 1.11,
+    "positivity_rolling_7": 1.1,
+    "positivity_rolling_14": 1.18
+  },
+  {
+    "date": "2021-11-18",
+    "tests_positive": 16.0,
+    "tests": 1295.0,
+    "tests_negative": 1279.0,
+    "positivity": 1.24,
+    "positivity_rolling_7": 1.02,
+    "positivity_rolling_14": 1.21
+  },
+  {
+    "date": "2021-11-19",
+    "tests_positive": 24.0,
+    "tests": 1394.0,
+    "tests_negative": 1370.0,
+    "positivity": 1.72,
+    "positivity_rolling_7": 1.08,
+    "positivity_rolling_14": 1.25
+  },
+  {
+    "date": "2021-11-20",
+    "tests_positive": 4.0,
+    "tests": 378.0,
+    "tests_negative": 374.0,
+    "positivity": 1.06,
+    "positivity_rolling_7": 1.23,
+    "positivity_rolling_14": 1.12
+  },
+  {
+    "date": "2021-11-21",
+    "tests_positive": 10.0,
+    "tests": 432.0,
+    "tests_negative": 422.0,
+    "positivity": 2.31,
+    "positivity_rolling_7": 1.44,
+    "positivity_rolling_14": 1.23
+  },
+  {
+    "date": "2021-11-22",
+    "tests_positive": 11.0,
+    "tests": 451.0,
+    "tests_negative": 440.0,
+    "positivity": 2.44,
+    "positivity_rolling_7": 1.58,
+    "positivity_rolling_14": 1.29
+  },
+  {
+    "date": "2021-11-23",
+    "tests_positive": 10.0,
+    "tests": 373.0,
+    "tests_negative": 363.0,
+    "positivity": 2.68,
+    "positivity_rolling_7": 1.79,
+    "positivity_rolling_14": 1.4
+  },
+  {
+    "date": "2021-11-24",
+    "tests_positive": 8.0,
+    "tests": 176.0,
+    "tests_negative": 168.0,
+    "positivity": 4.55,
+    "positivity_rolling_7": 2.29,
+    "positivity_rolling_14": 1.69
+  },
+  {
+    "date": "2021-11-25",
+    "tests_positive": null,
+    "tests": null,
+    "tests_negative": null,
+    "positivity": null,
+    "positivity_rolling_7": 2.46,
+    "positivity_rolling_14": 1.68
+  },
+  {
+    "date": "2021-11-26",
+    "tests_positive": null,
+    "tests": null,
+    "tests_negative": null,
+    "positivity": null,
+    "positivity_rolling_7": 2.61,
+    "positivity_rolling_14": 1.72
+  },
+  {
+    "date": "2021-11-27",
+    "tests_positive": null,
+    "tests": null,
+    "tests_negative": null,
+    "positivity": null,
+    "positivity_rolling_7": 2.99,
+    "positivity_rolling_14": 1.87
+  },
+  {
+    "date": "2021-11-28",
+    "tests_positive": 2.0,
+    "tests": 190.0,
+    "tests_negative": 188.0,
+    "positivity": 1.05,
+    "positivity_rolling_7": 2.68,
+    "positivity_rolling_14": 1.89
+  },
+  {
+    "date": "2021-11-29",
+    "tests_positive": 22.0,
+    "tests": 390.0,
+    "tests_negative": 368.0,
+    "positivity": 5.64,
+    "positivity_rolling_7": 3.48,
+    "positivity_rolling_14": 2.27
+  },
+  {
+    "date": "2021-11-30",
+    "tests_positive": 28.0,
+    "tests": 420.0,
+    "tests_negative": 392.0,
+    "positivity": 6.67,
+    "positivity_rolling_7": 4.48,
+    "positivity_rolling_14": 2.77
+  },
+  {
+    "date": "2021-12-01",
+    "tests_positive": 45.0,
+    "tests": 1259.0,
+    "tests_negative": 1214.0,
+    "positivity": 3.57,
+    "positivity_rolling_7": 4.23,
+    "positivity_rolling_14": 2.99
+  },
+  {
+    "date": "2021-12-02",
+    "tests_positive": 35.0,
+    "tests": 1483.0,
+    "tests_negative": 1448.0,
+    "positivity": 2.36,
+    "positivity_rolling_7": 3.86,
+    "positivity_rolling_14": 3.1
+  },
+  {
+    "date": "2021-12-03",
+    "tests_positive": 29.0,
+    "tests": 1555.0,
+    "tests_negative": 1526.0,
+    "positivity": 1.86,
+    "positivity_rolling_7": 3.52,
+    "positivity_rolling_14": 3.11
+  },
+  {
+    "date": "2021-12-04",
+    "tests_positive": 13.0,
+    "tests": 425.0,
+    "tests_negative": 412.0,
+    "positivity": 3.06,
+    "positivity_rolling_7": 3.46,
+    "positivity_rolling_14": 3.29
+  },
+  {
+    "date": "2021-12-05",
+    "tests_positive": 18.0,
+    "tests": 520.0,
+    "tests_negative": 502.0,
+    "positivity": 3.46,
+    "positivity_rolling_7": 3.8,
+    "positivity_rolling_14": 3.39
+  },
+  {
+    "date": "2021-12-06",
+    "tests_positive": 24.0,
+    "tests": 853.0,
+    "tests_negative": 829.0,
+    "positivity": 2.81,
+    "positivity_rolling_7": 3.4,
+    "positivity_rolling_14": 3.43
+  },
+  {
+    "date": "2021-12-07",
+    "tests_positive": 25.0,
+    "tests": 837.0,
+    "tests_negative": 812.0,
+    "positivity": 2.99,
+    "positivity_rolling_7": 2.87,
+    "positivity_rolling_14": 3.46
+  },
+  {
+    "date": "2021-12-08",
+    "tests_positive": 25.0,
+    "tests": 1035.0,
+    "tests_negative": 1010.0,
+    "positivity": 2.42,
+    "positivity_rolling_7": 2.71,
+    "positivity_rolling_14": 3.26
+  },
+  {
+    "date": "2021-12-09",
+    "tests_positive": 25.0,
+    "tests": 1050.0,
+    "tests_negative": 1025.0,
+    "positivity": 2.38,
+    "positivity_rolling_7": 2.71,
+    "positivity_rolling_14": 3.19
+  },
+  {
+    "date": "2021-12-10",
+    "tests_positive": 32.0,
+    "tests": 1129.0,
+    "tests_negative": 1097.0,
+    "positivity": 2.83,
+    "positivity_rolling_7": 2.85,
+    "positivity_rolling_14": 3.16
+  },
+  {
+    "date": "2021-12-11",
+    "tests_positive": 10.0,
+    "tests": 377.0,
+    "tests_negative": 367.0,
+    "positivity": 2.65,
+    "positivity_rolling_7": 2.79,
+    "positivity_rolling_14": 3.12
+  },
+  {
+    "date": "2021-12-12",
+    "tests_positive": 23.0,
+    "tests": 469.0,
+    "tests_negative": 446.0,
+    "positivity": 4.9,
+    "positivity_rolling_7": 3.0,
+    "positivity_rolling_14": 3.4
+  },
+  {
+    "date": "2021-12-13",
+    "tests_positive": 26.0,
+    "tests": 540.0,
+    "tests_negative": 514.0,
+    "positivity": 4.81,
+    "positivity_rolling_7": 3.28,
+    "positivity_rolling_14": 3.34
+  },
+  {
+    "date": "2021-12-14",
+    "tests_positive": 24.0,
+    "tests": 484.0,
+    "tests_negative": 460.0,
+    "positivity": 4.96,
+    "positivity_rolling_7": 3.56,
+    "positivity_rolling_14": 3.22
+  },
+  {
+    "date": "2021-12-15",
+    "tests_positive": 17.0,
+    "tests": 617.0,
+    "tests_negative": 600.0,
+    "positivity": 2.76,
+    "positivity_rolling_7": 3.61,
+    "positivity_rolling_14": 3.16
+  },
+  {
+    "date": "2021-12-16",
+    "tests_positive": 20.0,
+    "tests": 860.0,
+    "tests_negative": 840.0,
+    "positivity": 2.33,
+    "positivity_rolling_7": 3.61,
+    "positivity_rolling_14": 3.16
+  },
+  {
+    "date": "2021-12-17",
+    "tests_positive": 26.0,
+    "tests": 713.0,
+    "tests_negative": 687.0,
+    "positivity": 3.65,
+    "positivity_rolling_7": 3.72,
+    "positivity_rolling_14": 3.29
+  },
+  {
+    "date": "2021-12-18",
+    "tests_positive": 10.0,
+    "tests": 216.0,
+    "tests_negative": 206.0,
+    "positivity": 4.63,
+    "positivity_rolling_7": 4.01,
+    "positivity_rolling_14": 3.4
+  }
+]
