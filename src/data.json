@@ -1217,9 +1217,9 @@
   {
     "date": "2021-12-14",
     "tests_positive": 24.0,
-    "tests": 484.0,
-    "tests_negative": 460.0,
-    "positivity": 4.96,
+    "tests": 485.0,
+    "tests_negative": 461.0,
+    "positivity": 4.95,
     "positivity_rolling_7": 3.56,
     "positivity_rolling_14": 3.22
   },
@@ -1234,29 +1234,146 @@
   },
   {
     "date": "2021-12-16",
-    "tests_positive": 20.0,
-    "tests": 860.0,
-    "tests_negative": 840.0,
-    "positivity": 2.33,
-    "positivity_rolling_7": 3.61,
+    "tests_positive": 21.0,
+    "tests": 866.0,
+    "tests_negative": 845.0,
+    "positivity": 2.42,
+    "positivity_rolling_7": 3.62,
     "positivity_rolling_14": 3.16
   },
   {
     "date": "2021-12-17",
-    "tests_positive": 26.0,
-    "tests": 713.0,
-    "tests_negative": 687.0,
-    "positivity": 3.65,
-    "positivity_rolling_7": 3.72,
-    "positivity_rolling_14": 3.29
+    "tests_positive": 25.0,
+    "tests": 779.0,
+    "tests_negative": 754.0,
+    "positivity": 3.21,
+    "positivity_rolling_7": 3.67,
+    "positivity_rolling_14": 3.26
   },
   {
     "date": "2021-12-18",
+    "tests_positive": 12.0,
+    "tests": 325.0,
+    "tests_negative": 313.0,
+    "positivity": 3.69,
+    "positivity_rolling_7": 3.82,
+    "positivity_rolling_14": 3.31
+  },
+  {
+    "date": "2021-12-19",
     "tests_positive": 10.0,
-    "tests": 216.0,
-    "tests_negative": 206.0,
-    "positivity": 4.63,
-    "positivity_rolling_7": 4.01,
-    "positivity_rolling_14": 3.4
+    "tests": 262.0,
+    "tests_negative": 252.0,
+    "positivity": 3.82,
+    "positivity_rolling_7": 3.67,
+    "positivity_rolling_14": 3.33
+  },
+  {
+    "date": "2021-12-20",
+    "tests_positive": 18.0,
+    "tests": 370.0,
+    "tests_negative": 352.0,
+    "positivity": 4.86,
+    "positivity_rolling_7": 3.67,
+    "positivity_rolling_14": 3.48
+  },
+  {
+    "date": "2021-12-21",
+    "tests_positive": 9.0,
+    "tests": 291.0,
+    "tests_negative": 282.0,
+    "positivity": 3.09,
+    "positivity_rolling_7": 3.41,
+    "positivity_rolling_14": 3.48
+  },
+  {
+    "date": "2021-12-22",
+    "tests_positive": 19.0,
+    "tests": 308.0,
+    "tests_negative": 289.0,
+    "positivity": 6.17,
+    "positivity_rolling_7": 3.89,
+    "positivity_rolling_14": 3.75
+  },
+  {
+    "date": "2021-12-23",
+    "tests_positive": 19.0,
+    "tests": 271.0,
+    "tests_negative": 252.0,
+    "positivity": 7.01,
+    "positivity_rolling_7": 4.55,
+    "positivity_rolling_14": 4.08
+  },
+  {
+    "date": "2021-12-24",
+    "tests_positive": null,
+    "tests": null,
+    "tests_negative": null,
+    "positivity": null,
+    "positivity_rolling_7": 4.77,
+    "positivity_rolling_14": 4.18
+  },
+  {
+    "date": "2021-12-25",
+    "tests_positive": null,
+    "tests": null,
+    "tests_negative": null,
+    "positivity": null,
+    "positivity_rolling_7": 4.99,
+    "positivity_rolling_14": 4.31
+  },
+  {
+    "date": "2021-12-26",
+    "tests_positive": null,
+    "tests": null,
+    "tests_negative": null,
+    "positivity": null,
+    "positivity_rolling_7": 5.28,
+    "positivity_rolling_14": 4.25
+  },
+  {
+    "date": "2021-12-27",
+    "tests_positive": 61.0,
+    "tests": 311.0,
+    "tests_negative": 250.0,
+    "positivity": 19.61,
+    "positivity_rolling_7": 8.97,
+    "positivity_rolling_14": 5.6
+  },
+  {
+    "date": "2021-12-28",
+    "tests_positive": 30.0,
+    "tests": 190.0,
+    "tests_negative": 160.0,
+    "positivity": 15.79,
+    "positivity_rolling_7": 12.14,
+    "positivity_rolling_14": 6.58
+  },
+  {
+    "date": "2021-12-29",
+    "tests_positive": 49.0,
+    "tests": 282.0,
+    "tests_negative": 233.0,
+    "positivity": 17.38,
+    "positivity_rolling_7": 14.95,
+    "positivity_rolling_14": 7.91
+  },
+  {
+    "date": "2021-12-30",
+    "tests_positive": 41.0,
+    "tests": 325.0,
+    "tests_negative": 284.0,
+    "positivity": 12.62,
+    "positivity_rolling_7": 16.35,
+    "positivity_rolling_14": 8.84
+  },
+  {
+    "date": "2021-12-31",
+    "tests_positive": 1.0,
+    "tests": 1.0,
+    "tests_negative": 0.0,
+    "positivity": 100.0,
+    "positivity_rolling_7": 33.08,
+    "positivity_rolling_14": 17.64
   }
 ]
