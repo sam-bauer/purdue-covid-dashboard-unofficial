@@ -23,6 +23,7 @@ const CustomToolTip = ({ active, payload, label }) => {
         </Typography>
         {formatPayloadData("Positivity", payload[0].value)}
         {formatPayloadData("7-Day Avg", payload[1].value)}
+        {formatPayloadData("14-Day Avg", payload[2].value)}
       </React.Fragment>
     );
   }
@@ -80,6 +81,14 @@ export default function PositivityChart(props) {
           name="7-Day Avg"
           dataKey="positivity_rolling_7"
           stroke="#D72638"
+          dot={false}
+          strokeWidth={2}
+        />
+
+        <Line
+          name="14-Day Avg"
+          dataKey="positivity_rolling_14"
+          stroke="#66DB57"
           dot={false}
           strokeWidth={2}
         />
