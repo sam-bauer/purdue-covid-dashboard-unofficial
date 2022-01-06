@@ -45,8 +45,8 @@ export default function HomePage() {
         setDateRange={onDateRangeChange}
         setDateRangeDialog={setDateRangeDialog}
         open={isDateRangeDialogOpen}
-        firstDate={Moment(data[0].date, "YYYY-MM-DD")}
-        lastDate={Moment(data[data.length - 1].date, "YYYY-MM-DD")}
+        minDate={Moment(data[0].date, "YYYY-MM-DD")}
+        maxDate={Moment(data[data.length - 1].date, "YYYY-MM-DD")}
       />
       <Container maxWidth="lg" sx={{ px: 2, pt: 2 }}>
         <Card sx={{ p: 3, pb: 6 }}>

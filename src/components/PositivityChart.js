@@ -67,7 +67,10 @@ export default function PositivityChart(props) {
         <YAxis
           tickFormatter={formatPercent}
           width={50}
-          domain={[0, (dataMax) => Math.round(Math.min(dataMax * 1.2, 100))]}
+          domain={[
+            0,
+            (dataMax) => Math.min(Math.floor((dataMax + 3) / 4) * 4, 100)
+          ]}
           stroke="#EEEEEE"
         />
         <Tooltip content={CustomToolTip} filterNull={false} />

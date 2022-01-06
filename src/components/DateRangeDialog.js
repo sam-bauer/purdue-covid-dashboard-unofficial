@@ -1,9 +1,9 @@
 import React from "react";
 import {
+  Box,
   Dialog,
   DialogTitle,
   TextField,
-  Box,
   ButtonGroup,
   Button
 } from "@mui/material";
@@ -11,29 +11,30 @@ import { LocalizationProvider, DateRangePicker } from "@mui/lab";
 import MomentUtils from "@mui/lab/AdapterMoment";
 
 export default function DateRangeDialog(props) {
-  const { setDateRangeDialog, setDateRange, open, firstDate, lastDate } = props;
-  const [value, setValue] = React.useState([firstDate, lastDate]);
+  const { setDateRangeDialog, setDateRange, open, minDate, maxDate } = props;
+  const [value, setValue] = React.useState([minDate, maxDate]);
 
   const handleClose = () => {
     setDateRangeDialog(false);
-    if (value[0] === null && value[1] === null) {
-      setValue([firstDate, lastDate]);
-    }
-    setDateRange(value);
+  };
+
+  const handleDateRangeChange = (dates) => {
+    setValue(dates);
+    setDateRange(dates);
   };
 
   return (
-    <Dialog onClose={() => handleClose()} open={open}>
+    <Dialog onClose={handleClose} open={open}>
       <DialogTitle>Change date range</DialogTitle>
       <LocalizationProvider dateAdapter={MomentUtils}>
         <DateRangePicker
           startText="Start date"
           endText="End date"
           value={value}
-          maxDate={lastDate}
-          minDate={firstDate}
+          maxDate={maxDate}
+          minDate={minDate}
           onChange={(newValue) => {
-            setValue(newValue);
+            handleDateRangeChange(newValue);
           }}
           renderInput={(startProps, endProps) => (
             <React.Fragment>
@@ -45,22 +46,28 @@ export default function DateRangeDialog(props) {
         />
       </LocalizationProvider>
       <ButtonGroup sx={{ m: 2 }}>
-        <Button onClick={() => setValue([firstDate, lastDate])}>
+        <Button onClick={() => handleDateRangeChange([minDate, maxDate])}>
           All Time
         </Button>
         <Button
           onClick={() =>
-            setValue([lastDate.clone().subtract(30, "days"), lastDate])
-          }
-        >
-          Last 30 Days
-        </Button>
-        <Button
-          onClick={() =>
-            setValue([lastDate.clone().subtract(90, "days"), lastDate])
+            handleDateRangeChange([
+              maxDate.clone().subtract(90, "days"),
+              maxDate
+            ])
           }
         >
           Last 90 Days
+        </Button>
+        <Button
+          onClick={() =>
+            handleDateRangeChange([
+              maxDate.clone().subtract(30, "days"),
+              maxDate
+            ])
+          }
+        >
+          Last 30 Days
         </Button>
       </ButtonGroup>
     </Dialog>
