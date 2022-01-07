@@ -77,10 +77,10 @@ def main():
     df = pd.DataFrame(data=ws.data)
     df = clean_data(df)
     df = analyze_data(df)
-    with open('data.json', 'w') as outfile:
+    with open('./src/data.json', 'w') as outfile:
         outfile.write(df.to_json(orient='records'))
         outfile.close()
-    df.to_csv('data.csv', index=False)
+    # df.to_csv('data.csv', index=False)
 
 
 if __name__ == "__main__":
