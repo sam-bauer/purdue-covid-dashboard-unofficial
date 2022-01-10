@@ -29,5 +29,5 @@ jobs:
         run: |
           git config --global user.name 'sam-bauer'
           git config --global user.email 'sam-bauer@users.noreply.github.com'
-          git commit -am "Automated data update"
+          git commit -am --allow-empty "Automated data update"
           git push
