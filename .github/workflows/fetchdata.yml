@@ -23,7 +23,11 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a python data scraper, writing data to /src/data.json
         run: python ./scraper.py
-
+        
+      # Prints fetched data
+      - name: Print latest data
+        run: cat ./src/data.json
+      
       # Runs a set of commands using the runners shell
       - name: Commit new data
         run: |
