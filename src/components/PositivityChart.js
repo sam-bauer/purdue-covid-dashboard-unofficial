@@ -50,7 +50,7 @@ const formatDate = (d) => {
 };
 
 const formatPercent = (d) => {
-  return d + "%";
+  return d.toFixed(2) + "%";
 };
 
 export default function PositivityChart(props) {
@@ -66,7 +66,7 @@ export default function PositivityChart(props) {
           stroke="#EEEEEE"
         />
         <YAxis
-          tickFormatter={formatPercent}
+          tickFormatter={(value) => value + "%"}
           width={50}
           domain={[
             0,
@@ -84,7 +84,6 @@ export default function PositivityChart(props) {
           dot={false}
           strokeWidth={2}
         />
-
         {/*<Line
           name="14-Day Avg"
           dataKey="positivity_rolling_14"
