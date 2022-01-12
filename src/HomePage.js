@@ -32,6 +32,32 @@ export default function HomePage() {
     setSelectedData(newSelectedData);
   };
 
+  const getPositivityRollingQuickFact = () => {
+    const curr_pos_r_7 = data[data.length - 1].positivity_rolling_7;
+    let indicator = "→";
+    if (curr_pos_r_7 > data[data.length - 1 - 7].positivity_rolling_7)
+      indicator = "↑";
+    else if (curr_pos_r_7 < data[data.length - 1 - 7].positivity_rolling_7)
+      indicator = "↓";
+    return curr_pos_r_7.toFixed(2) + "%" + " " + indicator;
+  };
+
+  const getPositiveTestsQuickFact = () => {
+    let curr_tests_pos_r_7 = 0;
+    let prev_tests_pos_r_7 = 0;
+    for (let i = 0; i < 7; i++) {
+      curr_tests_pos_r_7 += data[data.length - 1 - i].tests_positive;
+    }
+    for (let i = 7; i < 14; i++) {
+      prev_tests_pos_r_7 += data[data.length - 1 - i].tests_positive;
+    }
+
+    let indicator = "→";
+    if (curr_tests_pos_r_7 > prev_tests_pos_r_7) indicator = "↑";
+    else if (curr_tests_pos_r_7 < prev_tests_pos_r_7) indicator = "↓";
+    return curr_tests_pos_r_7 + " " + indicator;
+  };
+
   return (
     <Box
       sx={{
@@ -55,21 +81,17 @@ export default function HomePage() {
           <Grid item xs={12} sm={4} md={6}>
             <Card sx={{ p: 3, textAlign: "center" }}>
               <Typography variant="h5">
-                {data[data.length - 1].positivity_rolling_7.toFixed(2)}%
+                {getPositivityRollingQuickFact()}
               </Typography>
-              <Typography>7-Day Positivity</Typography>
+              <Typography>Positivity This Week</Typography>
             </Card>
           </Grid>
           <Grid item xs={12} sm={4} md={6}>
             <Card sx={{ p: 3, textAlign: "center" }}>
               <Typography variant="h5">
-                {(
-                  data[data.length - 1].positivity_rolling_7 -
-                  data[data.length - 1 - 7].positivity_rolling_7
-                ).toFixed(2)}
-                %
+                {getPositiveTestsQuickFact()}
               </Typography>
-              <Typography>7-Day Positivity Weekly Change</Typography>
+              <Typography>Positive Tests This Week</Typography>
             </Card>
           </Grid>
         </Grid>
