@@ -1,2 +1,1 @@
-# purdue-covid-dashboard-unofficial
-Created with CodeSandbox
+# An unofficial COVID-19 dashboard for Purdue University
